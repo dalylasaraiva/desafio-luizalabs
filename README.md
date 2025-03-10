@@ -1,6 +1,6 @@
 # Desafio Luiza Labs
 
-O desafio proposto solicitou criar casos de testes Web da seguinte página `https://maratona-discover-devfinance.netlify.app/#` e automatizar os mesmos, além de buscar uma API pública e criar casos de testes e automatizá-los também, a API pública utilizada foi `https://serverest.dev/`
+O desafio proposto solicitou a criação de casos de teste para a aplicação web disponível em `https://maratona-discover-devfinance.netlify.app/#`, bem como a automação desses testes. Além disso, foi solicitado encontrar uma API pública, criar casos de teste para ela e automatizá-los. A API escolhida para esse propósito foi `https://serverest.dev/`.
 
 # Pré-requisitos
 
