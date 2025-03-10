@@ -1,0 +1,16 @@
+{
+  "user1": {
+    "nome": "Dalyla Cardoso",
+    "email": "teste@qa22.com.br",
+    "password": "teste1",
+    "administrador": "true"
+  },
+
+  "user2": {
+    "nome": "Dalyla Saraiva",
+    "email": "teste@qa23.com.br",
+    "password": "teste2",
+    "administrador": "true"
+  }
+}
+
